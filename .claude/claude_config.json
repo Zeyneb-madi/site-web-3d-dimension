@@ -1,0 +1,24 @@
+{
+  "skills": [
+    {
+      "name": "frontend-design",
+      "enabled": true,
+      "description": "Create distinctive, production-grade frontend interfaces with high design quality"
+    },
+    {
+      "name": "skill-creator",
+      "enabled": true,
+      "description": "Create and manage Claude Code skills"
+    }
+  ],
+  "project": {
+    "name": "SITE WEB - Sites Internet Dynamiques 3D",
+    "type": "web-3d",
+    "description": "Projet de création de sites internet dynamiques avec des éléments 3D interactifs"
+  },
+  "preferences": {
+    "language": "fr",
+    "framework": "vanilla-js",
+    "3d_library": "three.js"
+  }
+}
