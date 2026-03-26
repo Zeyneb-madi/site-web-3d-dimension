@@ -94,13 +94,24 @@ SITE WEB/
 
 ## 🎯 Installation & Utilisation
 
-### Option 1 : Ouverture Directe
+### Option 1 : Déploiement sur Vercel (Recommandé)
+
+Le site est configuré pour un déploiement facile sur Vercel :
+
+1. **Connectez-vous à [Vercel](https://vercel.com)**
+2. **Importez le dépôt GitHub** : https://github.com/Zeyneb-madi/site-web-3d-dimension
+3. **Cliquez sur "Deploy"** - Vercel détectera automatiquement la configuration
+4. **Votre site sera en ligne** en quelques secondes avec HTTPS et CDN global
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Zeyneb-madi/site-web-3d-dimension)
+
+### Option 2 : Ouverture Directe
 ```bash
 # Ouvrir directement dans le navigateur
 open index.html
 ```
 
-### Option 2 : Serveur Local (Recommandé)
+### Option 3 : Serveur Local
 ```bash
 # Python 3
 python3 -m http.server 8000
